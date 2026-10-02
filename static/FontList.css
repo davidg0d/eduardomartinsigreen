@@ -1,0 +1,51 @@
+/* Optimized for the published landing page.
+   Only font faces actually used by this project are retained. */
+@font-face {
+    font-family: 'Lato';
+    font-weight: 400;
+    src: url("FontList/Lato/Lato.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: 'Lato Black';
+    font-weight: 900;
+    src: url("FontList/Lato/Lato-Black.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url("FontList/Muli/Muli.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: 'Muli Black';
+    font-weight: 900;
+    src: url("FontList/Muli/Muli-Black.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: 'Muli Light';
+    src: url("FontList/Muli/Muli-Light.woff2") format('woff2');
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: montserrat;
+  src: url('FontList/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat Light';
+    src: url("FontList/Montserrat/Montserrat-Light.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat Semi Bold';
+    src: url("FontList/Montserrat/Montserrat-SemiBold.ttf") format('truetype');
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: comic sans ms;
+  src: url('FontList/Comic-Sans-MS/Comic-Sans-MS.ttf') format('truetype');
+}
